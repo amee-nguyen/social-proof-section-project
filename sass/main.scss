@@ -1,2 +1,9 @@
-//Variables
-@import "";
+// Variables
+@import "./abstract/variables";
+@import "./abstract/mixin";
+
+// Base
+@import "./base/base";
+
+// Pages
+@import "./pages/home";
